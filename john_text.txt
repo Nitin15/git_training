@@ -3,3 +3,5 @@ Adding anothe line by Amber without knowing that the file has been updated by jo
  Adding a line from john's repo
 
  Incorporating changes from john as as updating my changes.
+
+ Adding some lines of text from Amber's repository and do not wish to merge the changes until expllicity run the merge command.
