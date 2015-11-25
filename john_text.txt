@@ -1,7 +1,11 @@
-Adding anothe line by Amber without knowing that the file has been updated by john and pushed to the remote repository.
+Adding anothe line by Amber wthout knowing that the file has been updated by john and pushed to the remote repository.
 
  Adding a line from john's repo
 
  Incorporating changes from john as as updating my changes.
 
+
  Adding some lines of text from Amber's repository and do not wish to merge the changes until expllicity run the merge command.
+ 
+ Adding the lines to be merged using the fetch command from Amber's repository.
+
