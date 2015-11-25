@@ -1,2 +1,5 @@
 Adding anothe line by Amber without knowing that the file has been updated by john and pushed to the remote repository.
 
+ Adding a line from john's repo
+
+ Incorporating changes from john as as updating my changes.
