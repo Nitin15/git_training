@@ -1,2 +1,1 @@
 E:\git_training\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
-E:\git_training\HelloWorldTests\obj\Debug\ResolveAssemblyReference.cache

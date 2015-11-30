@@ -1,0 +1,2 @@
+E:\git_training\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\git_training\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
