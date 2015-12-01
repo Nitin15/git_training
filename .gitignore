@@ -1,10 +1,9 @@
 *.class
 
-bin/
-gen/
+HelloWorld/HelloWorld/bin/
 
 build/
 
 *.cache
 
-obj/
+HelloWorld/HelloWorld/obj/
