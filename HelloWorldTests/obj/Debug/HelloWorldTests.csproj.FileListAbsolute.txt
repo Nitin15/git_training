@@ -1,2 +1,5 @@
-E:\git_training\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+E:\git_training\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+E:\git_training\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+E:\git_training\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+E:\git_training\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
 E:\git_training\HelloWorldTests\obj\Debug\ResolveAssemblyReference.cache

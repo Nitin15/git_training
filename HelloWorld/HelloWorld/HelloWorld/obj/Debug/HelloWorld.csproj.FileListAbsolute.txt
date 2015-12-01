@@ -1,0 +1,1 @@
+E:\git_training\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
