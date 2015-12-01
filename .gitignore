@@ -7,3 +7,9 @@ build/
 *.cache
 
 HelloWorld/HelloWorld/obj/
+
+HelloWorld/HelloWorld.v11.suo
+
+HelloWorld/HelloWorldTests/bin/
+
+HelloWorld/HelloWorldTests/obj/
