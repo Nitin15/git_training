@@ -6,3 +6,5 @@ Adding some changes from the home_changes branch.
 changes added till the staging state.
 
 line added after the file is added to the staging state.
+
+Adding some more text.
