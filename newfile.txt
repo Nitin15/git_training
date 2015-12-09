@@ -3,6 +3,6 @@ I am adding some text here
 
 Adding some changes from the home_changes branch.
 
-changes added till the stagind state.
+changes added till the staging state.
 
 line added after the file is added to the staging state.
