@@ -8,3 +8,5 @@ changes added till the staging state.
 line added after the file is added to the staging state.
 
 Adding some more text and some more.
+
+xyz
