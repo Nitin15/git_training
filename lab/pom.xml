@@ -21,7 +21,7 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.jacoco</groupId>
+        <groupId>ca.uwo.csd.cs2212.USERNAME</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <version>0.6.4.201312101107</version>
           <executions>
