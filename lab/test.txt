@@ -1,2 +1,2 @@
-Testing CI and CD with chef
+Testing CI and CD with multiple chef nodes
 
