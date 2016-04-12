@@ -22,17 +22,17 @@
     <repository>
       <id>nexus</id>
       <name>Nexus Releases</name>
-      <url>http://ec2-54-201-111-183.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+      <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Nexus Snapshot</name>
-      <url>http://ec2-54-201-111-183.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
+      <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
     <site>
       <id>nexus</id>
       <name>Nexus Sites</name>
-      <url>dav:http://ec2-54-201-111-183.us-west-2.compute.amazonaws.com:8081/nexus/content/sites/site/</url>
+      <url>dav:http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/sites/site/</url>
     </site>
   </distributionManagement>
   <build>
