@@ -57,15 +57,15 @@
 
     <repositories>
         <repository>
-            <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
+            <id>nexus</id>
+            <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+            <id>nexus</id>
+            <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
         </repository>
     </distributionManagement>
 
