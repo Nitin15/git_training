@@ -1,0 +1,5 @@
+E:\git_training\xmltree\xmltree\bin\Debug\xmltree.exe.config
+E:\git_training\xmltree\xmltree\bin\Debug\xmltree.exe
+E:\git_training\xmltree\xmltree\bin\Debug\xmltree.pdb
+E:\git_training\xmltree\xmltree\obj\Debug\xmltree.exe
+E:\git_training\xmltree\xmltree\obj\Debug\xmltree.pdb

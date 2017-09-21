@@ -1,0 +1,6 @@
+E:\git_training\xmltree\xmltree\bin\Release\xmltree.exe.config
+E:\git_training\xmltree\xmltree\bin\Release\xmltree.exe
+E:\git_training\xmltree\xmltree\bin\Release\xmltree.pdb
+E:\git_training\xmltree\xmltree\obj\Release\xmltree.exe
+E:\git_training\xmltree\xmltree\obj\Release\xmltree.pdb
+E:\git_training\xmltree\xmltree\obj\Release\xmltree.csprojResolveAssemblyReference.cache
