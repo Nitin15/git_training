@@ -58,14 +58,14 @@
     <repositories>
         <repository>
             <id>nexus</id>
-            <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://abc:8081/nexus/content/repositories/snapshots/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://ec2-54-191-40-41.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
+            <url>abc:8081/nexus/content/repositories/snapshots/</url>
         </repository>
     </distributionManagement>
 
